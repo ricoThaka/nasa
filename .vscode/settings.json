@@ -1,0 +1,7 @@
+{
+    "githubPullRequests.ignoredPullRequestBranches": [
+        "master",
+        "letterbox",
+        "pixelsquare"
+    ]
+}
